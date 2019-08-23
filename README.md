@@ -92,7 +92,6 @@ Trained on 12 different sets of handwriting this AI turns text into handwriting.
 ![As Though I Knew - Harrison Argatoff - still from live video](/images/harrison_still.jpg)
 * Audio performance: Magenta AI Duet
 * Tree visuals: Learning to See AI. trained on 200 photos of trees by Harrison Argatoff.
-* Past Machinery - Jackson Welchner
 * Audio performance: VOCALOID5, Magenta AI Duet
 
 #### Past Machinery - Jackson Welchner
